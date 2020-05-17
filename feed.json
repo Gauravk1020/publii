@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "html",
+    "description": "",
+    "home_page_url": "https://gauravk1020.github.io/publii",
+    "feed_url": "https://gauravk1020.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gaurav Kuamr"
+    },
+    "items": [
+        {
+            "id": "https://gauravk1020.github.io/publii/html-intro.html",
+            "url": "https://gauravk1020.github.io/publii/html-intro.html",
+            "title": "HTML Intro",
+            "summary": "hello wha are you dooing hello",
+            "content_html": "hello wha are you dooing <button>hello</button>",
+            "author": {
+                "name": "Gaurav Kuamr"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-17T13:27:06+05:30",
+            "date_modified": "2020-05-17T13:27:06+05:30"
+        }
+    ]
+}

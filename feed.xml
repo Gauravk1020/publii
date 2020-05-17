@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>html</title>
+    <link href="https://gauravk1020.github.io/publii/feed.xml" rel="self" />
+    <link href="https://gauravk1020.github.io/publii" />
+    <updated>2020-05-17T14:58:15+05:30</updated>
+    <author>
+        <name>Gaurav Kuamr</name>
+    </author>
+    <id>https://gauravk1020.github.io/publii</id>
+
+    <entry>
+        <title>HTML Intro</title>
+        <author>
+            <name>Gaurav Kuamr</name>
+        </author>
+        <link href="https://gauravk1020.github.io/publii/html-intro.html"/>
+        <id>https://gauravk1020.github.io/publii/html-intro.html</id>
+
+        <updated>2020-05-17T13:27:06+05:30</updated>
+            <summary>
+                <![CDATA[
+                    hello wha are you dooing hello
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                hello wha are you dooing <button>hello</button>
+            ]]>
+        </content>
+    </entry>
+</feed>
