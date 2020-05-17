@@ -6,7 +6,7 @@
     "feed_url": "https://gauravk1020.github.io/publii/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Gaurav Kuamr"
+        "name": "Gaurav Kumar"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "hello wha are you dooing hello",
             "content_html": "hello wha are you dooing <button>hello</button>",
             "author": {
-                "name": "Gaurav Kuamr"
+                "name": "Gaurav Kumar"
             },
             "tags": [
             ],
